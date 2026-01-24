@@ -1,33 +1,40 @@
-### Hi there 👋, my name is wooyeon Won!
-#### I am  junior Front-end Developer.
+# 안녕하세요, 프론트엔드 개발자 우연입니다.
 
-Work I did on Project..
+**"사용하기 편한 UI"와 "읽기 좋은 코드"를 고민합니다.**
+3년 차 프론트엔드 개발자로 SaaS 기반의 웹 서비스를 운영 및 개발한 경험이 있습니다.
+현재는 Next.js와 Node.js 생태계를 깊이 있게 학습하며, 서비스 전체를 조망하는 풀스택 개발자를 지향합니다.
 
-1. https://github.com/SLOW-LETTER
+---
 
+### 🛠 Tech Stack
 
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-Skills: 
-<div align="left">
-	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
-	<img src="https://img.shields.io/badge/JavaScript-ECD53F?style=flat&logo=JavaScript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-</div>
+**Backend & Tools**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-- 🌱 I’m currently learning React and Typescript 
-- 📫 How to reach me: dndus567@naver.com 
+---
 
+### 💻 Work Experience
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/coincidence-one)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://coincidence-one.tistory.com)  
+**B2B SaaS 구독 서비스 개발**
+- React, TypeScript 기반의 어드민 대시보드 및 결제 페이지 개발
+- `TanStack Table`을 활용한 데이터 테이블 구현 및 필터링 기능 개발
+- Toss Payments 결제 모듈 연동 및 구독 결제 프로세스 유지보수
+- 공통 컴포넌트(Button, Input, Modal 등) 분리 및 재사용성 개선
 
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=coincidence-one)](https://github.com/ryo-ma/github-profile-trophy)
+### 📝 Projects
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=coincidence-one&show_icons=true)  
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coincidence-one)](https://github.com/anuraghazra/github-readme-stats)
-
-
+### 📫 Contact
+- **Email:** [dndus567@gmail.com]
+- **Blog:** [https://coincidence-one.tistory.com/]
