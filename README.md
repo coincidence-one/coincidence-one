@@ -37,14 +37,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=coincidence-one&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coincidence-one&layout=compact&theme=radical)
-
----
-
 ## 📫 Contact
 
-- **Email**: dnduus567@gmail.com
-- **Blog**: https://coincidence-one.tistory.com
+**Email**: dnduus567@gmail.com | **Blog**: https://coincidence-one.tistory.com
