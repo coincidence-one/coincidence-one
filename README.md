@@ -9,7 +9,7 @@
 
 ## 경력
 
-**Frontend Developer @ Docenty** (2023.11 - 현재)
+**Frontend Developer @ Docenty** (2023.11 - 2026.04.30)
 
 - AI 기반 B2B SaaS 챗봇 솔루션 개발
 - 결제 시스템 (TossPayments, Paddle) 구축 및 운영
