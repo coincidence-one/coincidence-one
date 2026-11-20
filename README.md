@@ -1,6 +1,8 @@
 # 원우연
 
-프론트엔드 개발자입니다. 설계와 검증은 직접 하고 구현은 Claude Code에 맡깁니다.
+프론트엔드 개발자 원우연입니다.  
+무엇을 어떤 구조로 만들지는 제가 주도해서 정하고, AI의 도움을 받아 함께 다듬습니다. 구현도 AI와 나눠 하지만, 결과를 리뷰하고 책임지는 건 제 몫입니다.  
+지금은 미국 조지아 한인 중고거래 앱 피치마켓을 혼자 만들고 운영하고 있습니다.
 
 - 포트폴리오: https://coincidence-one.github.io/wooyeon-portfolio/
 - 블로그: https://coincidence-one.tistory.com
