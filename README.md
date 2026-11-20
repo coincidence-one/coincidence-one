@@ -22,7 +22,7 @@
 - 애드크림 (TVCF) · 프론트엔드 개발자 · 2026.05 ~ 현재
 - 도슨티 (docenty.ai) · 프론트엔드 개발자 · 2023.11 ~ 2026.04
 
-자세한 경력은 [포트폴리오](https://coincidence-one.github.io/wooyeon-portfolio/)와 [LinkedIn](https://www.linkedin.com/in/wooyeon-won)에 있습니다.
+자세한 경력은 [LinkedIn](https://www.linkedin.com/in/wooyeon-won)에 있습니다.
 
 ## 기술
 
